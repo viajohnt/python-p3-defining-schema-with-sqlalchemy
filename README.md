@@ -116,7 +116,7 @@ This type of class is called a **data model**, or **model**.
 
 We have all of the data we need to generate a database table, but it won't
 happen as soon as we save our module. We need to execute a series of Python
-statements to do **persist** our schema. You can do this from the Python shell,
+statements to **persist** our schema. You can do this from the Python shell,
 but we will be using a script for this exercise.
 
 ```py
